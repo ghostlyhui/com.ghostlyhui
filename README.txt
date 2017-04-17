@@ -1,3 +1,4 @@
 # com.ghostlyhui
 my git repository
-just for ghostlyhui
+
+this is a git reposity test for myself.
